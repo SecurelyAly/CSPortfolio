@@ -1,2 +1,2 @@
-# CSPortfolio
+# CyberSecurity Portfolio
 Cybersecurity Portfolio
