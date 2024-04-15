@@ -2,8 +2,9 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b> Cybersecurity Incident Report </b>
-  -[Cybersecurity Incident Reports](https://github.com/SecurelyAly/Cybersecurity-Incident-report/tree/main)
+
+- <b>Cybersecurity Incident Report </b>
+  - [Cybersecurity Incident Reports](https://github.com/SecurelyAly/Cybersecurity-Incident-report/tree/main)
 - <b> Incident Handler’s Journal "Coming Soon" </b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Linux </b>
