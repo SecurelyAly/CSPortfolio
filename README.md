@@ -25,11 +25,11 @@
 
 <h2>🎓 Certifications </h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Foundations of Cybersecurity](https://coursera.org/share/febc77a97486e0e580c0d43f55d3473b)
+- [Play it Safe: Manage Security Risks](https://coursera.org/share/2414f6353e7897565961474098cc3d4b)
+- [Connect and Protect: Networks and Network Security](https://coursera.org/share/675eddf615e418b7acc2d24aa7b4e5ba)
+- [Tools of the Trade: Linux and SQL](https://coursera.org/share/fc72e836a0daa99ed6210f2b23de9248)
+
 
 <h2> 🤳 Connect with me:</h2>
 
