@@ -3,7 +3,7 @@
 <h2>👨‍💻 About Aly:</h2>
 
 - <b>Cybersecurity Incident Report </b>
-  - [Reasume](https://github.com/SecurelyAly/Reaume/blob/main/README.md)
+  - [Resume](https://github.com/SecurelyAly/Reaume/blob/main/README.md)
 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
