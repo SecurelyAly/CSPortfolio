@@ -12,22 +12,22 @@
 - <b>Cybersecurity Incident Report </b>
   - [Cybersecurity Incident Reports](https://github.com/SecurelyAly/Cybersecurity-Incident-report/tree/main)
 - <b> Incident Handler’s Journal "Coming Soon" </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Journal](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Linux </b>
   - [File Premissions in Linux](https://github.com/SecurelyAly/Linux/tree/main)
 - <b>Security Audits </b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Thing](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Another Thing](https://github.com/joshmadakor1/AD_PS)
+  - [More things](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b> SQL Query </b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [SQL Thing link](https://github.com/joshmadakor1/EncrypterPOC)
+  - [IDK Yet)](https://github.com/joshmadakor1/DecrypterPOC)
+  - [Stuff](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b> TryHackMe Journal </b>
   - [TryHackMe Journal](https://github.com/SecurelyAly/TryHackMe)
 - <b> Vulnerable System Analysis "Coming Soon" </b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Analysis](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>🎓 Certifications </h2>
 
